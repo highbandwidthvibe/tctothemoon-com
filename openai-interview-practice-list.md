@@ -2,12 +2,12 @@
 
 | # | Question | Type |
 |---|---|---|
-| 1 | [Cross-Entropy - III: Numerically Stable NumPy Implementation](https://tctothemoon.com/questions/tctm-3) | ML Foundations |
-| 2 | [Cross-Entropy - IV: Label Smoothing](https://tctothemoon.com/questions/tctm-4) | ML Foundations |
+| 1 | [Cross-Entropy - III: Numerically Stable NumPy Implementation](https://tctothemoon.com/questions/tctm-3) | ML Coding |
+| 2 | [Cross-Entropy - IV: Label Smoothing](https://tctothemoon.com/questions/tctm-4) | ML Coding |
 | 3 | [Infection Spread Simulation](https://tctothemoon.com/questions/tctm-88) | Coding |
 | 4 | [Balanced Annotation Assignment](https://tctothemoon.com/questions/tctm-89) | Coding |
 | 5 | [Debugging a Transformer - I: Training and Classifier Diagnosis](https://tctothemoon.com/questions/tctm-38) | ML Foundations |
-| 6 | [Debugging a Transformer - II: Pure-Python Component Repair](https://tctothemoon.com/questions/tctm-39) | ML Coding |
+| 6 | [Debugging a Transformer - II: Pure-Python Component Repair](https://tctothemoon.com/questions/tctm-39) | ML Coding / Debug |
 | 7 | [Self-Attention - I: Core Concepts](https://tctothemoon.com/questions/tctm-30) | ML Foundations |
 | 8 | [Self-Attention - II: Basic NumPy Implementation](https://tctothemoon.com/questions/tctm-31) | ML Coding |
 | 9 | [Self-Attention - III: Masked Self-Attention](https://tctothemoon.com/questions/tctm-32) | ML Coding |
