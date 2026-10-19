@@ -1,6 +1,5 @@
-# What is TC To the Moon
+# What is TC To the Moon 🚀
 
-### 🚀 Welcome to TCTM, the AI/ML interview prep hub
 
 **[TC To the Moon (tctothemoon.com)](https://tctothemoon.com)** is a practice platform for engineers getting ready for **AI/ML interviews**. That includes frontier AI labs, NeoLabs, and AI/ML teams at big tech or top-tier quant companies.
 
